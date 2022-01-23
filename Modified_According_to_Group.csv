@@ -1,0 +1,43 @@
+"","id","effect_id","author","pub_year","pub_type","peer_review","n","yi","vi","adapt_measures","adapt_method","adapt_method_specific","subj_adapt_definition","cog_abil_measure","ca_measure","financ_support","sex","men_prop","country","sample","task","complexity_component","complexity_coordinative"
+"1",2,4,"Blickle",2011,"1",1,113,-0.04,0.00890002285714286,"2",1,2,"broad","Wonderlic Personnel Test","General",1,3,75,"Germany","2","",NA,NA
+"2",3,5,"Pulakos",2002,"1",1,327,0.142,0.00294502634017178,"2",1,2,"narrow","Armed Forces Qualifying Test (AFQT)","General",1,3,83,"USA","2","",NA,NA
+"3",7,9,"Shoss",2012,"1",1,77,0.19,0.0122250422368421,"2",1,2,"narrow","Wonderlic Personnel Test","General",0,3,32.6,"USA","2","",NA,NA
+"4",8,10,"Stokes",2010,"1",1,132,0.31,0.00623691,"4(3+2)",1,2,"narrow","Wonderlic Personnel Test","General",0,3,47.73,"USA","4","",NA,NA
+"5",8,11,"Stokes",2010,"1",1,132,0.25,0.00670920801526718,"4(3+2)",2,3,"","Wonderlic Personnel Test","General",0,3,47.73,"USA","4","Simulation/video game",1,1
+"6",9.2,12,"Beuing",2009,"8",0,207,0.24,0.00431125126213592,"1",1,1,"narrow","IST-2000-R","General",0,3,23.3,"Germany","1","",NA,NA
+"7",9.2,13,"Beuing",2009,"8",0,207,0.01,0.00485339810679612,"1",1,1,"narrow","IST-2000-R","General",0,3,23.3,"Germany","1","",NA,NA
+"8",10,14,"Beuing",2009,"8",0,70,0.09,0.014258921884058,"4(1+3)",1,1,"narrow","IST-2000-R","General",0,3,15.71,"Germany","1","",NA,NA
+"9",10,15,"Beuing",2009,"8",0,70,0.29,0.0121575769565217,"4(1+3)",1,1,"narrow","IST-2000-R","General",0,3,15.71,"Germany","1","",NA,NA
+"10",10,16,"Beuing",2009,"8",0,70,0.36,0.0109796544927536,"4(1+3)",2,3,"","IST-2000-R","General",0,3,15.71,"Germany","1","Simulation/video game",1,0
+"11",11,17,"LePine",2000,"1",1,73,0.43,0.00922761125,"3",2,3,"","Wonderlic Personnel Test","General",1,NA,NA,"USA","1","Simulation/video game",1,1
+"12",11,18,"LePine",2000,"1",1,73,0.43,0.00922761125,"3",2,3,"","Wonderlic Personnel Test","General",1,NA,NA,"USA","1","Simulation/video game",1,1
+"13",12,19,"Chan",2002,"1",1,160,-0.02,0.00628427773584906,"3",2,3,"","Graduate and Managerial Assessment Verbal (GMA V)","General",0,3,28,"Singapur","2","SJT",1,NA
+"14",13,20,"Bell",2002,"1",1,125,0.43,0.00535796782258065,"3",2,3,"","Wonderlic Personnel Test","General",1,3,42,"USA","1","Simulation/video game",1,1
+"15",17,37,"Wheeler",2012,"3",0,132,0.23,0.00684731610687023,"3",2,3,"","ANAM (GMA)","General",0,3,42.42,"USA","1","Simulation/video game",1,1
+"16",17,40,"Wheeler",2012,"3",0,132,-0.36,0.00578317679389313,"3",2,3,"","ANAM (GMA)","General",0,3,42.42,"USA","1","Simulation/video game",1,1
+"17",19,42,"Morgan",2013,"1",1,32,0.645,0.0110008645362903,"3",2,3,"","Working memory","General",1,NA,NA,"USA","4","Simulation/video game",1,1
+"18",19,45,"Morgan",2013,"1",1,32,0.394,0.0230202005063226,"3",2,3,"","Working memory","General",1,NA,NA,"USA","4","Simulation/video game",1,1
+"19",19,48,"Morgan",2013,"1",1,32,0.203,0.0296541994090645,"3",2,3,"","Working memory","General",1,NA,NA,"USA","4","Simulation/video game",1,1
+"20",19,51,"Morgan",2013,"1",1,32,0.356,0.0245996778611613,"3",2,3,"","Working memory","General",1,NA,NA,"USA","4","Simulation/video game",1,1
+"21",20,54,"Howe",2019,"1",1,261,0.23,0.00344999388461539,"3",2,3,"","Wonderlic Personnel Test (Quicktest; WPT-Q)","General",0,3,49,"USA","1","Simulation/video game",1,1
+"22",20,55,"Howe",2019,"1",1,261,0.29,0.00322643388461539,"3",2,3,"","Wonderlic Personnel Test (Quicktest; WPT-Q)","General",0,3,49,"USA","1","Simulation/video game",1,1
+"23",24,88,"Baumgartner",2015,"4",0,165,0.1,0.00597621951219512,"4(1+2+3)",1,NA,"narrow","Wonderlic Personnel Test","General",0,NA,63.03,"USA","1","",NA,NA
+"24",24,89,"Baumgartner",2015,"4",0,165,0.21,0.00557161469512195,"4(1+2+3)",2,3,"","Wonderlic Personnel Test","General",0,NA,63.03,"USA","1","Simulation/video game",1,1
+"25",28,94,"Kluge",2011,"1",1,38,0.26,0.02349648,"3",2,3,"","Wonderlic Personnel Test","General",1,3,97.37,"Germany","5, Azubis","Simulation/video game",1,1
+"26",28,95,"Kluge",2011,"1",1,38,-0.01,0.0270216218918919,"3",2,3,"","Wonderlic Personnel Test","General",1,3,97.37,"Germany","5, Azubis","Simulation/video game",1,1
+"27",29,96,"Carter",2010,"1",1,161,0.55,0.0030406640625,"3",2,3,"","Wonderlic Personnel Test","General",0,3,44.1,"USA","4","Other",1,1
+"28",29,97,"Carter",2010,"1",1,161,0.52,0.003326976,"3",2,3,"","Wonderlic Personnel Test","General",0,3,44.1,"USA","4","Other",1,1
+"29",31,99,"Grim",2010,"4",0,100,0.045,0.0100601424305556,"4(1+2+3)",1,2,"narrow","Armed Services Vocational Aptitude Battery (ASVAB)","General",0,2,100,"USA","2","",NA,NA
+"30",31,100,"Grim",2010,"4",0,100,-0.007,0.0101000202262727,"4(1+2+3)",1,1,"broad","Armed Services Vocational Aptitude Battery (ASVAB)","General",0,2,100,"USA","2","",NA,NA
+"31",31,101,"Grim",2010,"4",0,100,0.019,0.0100937184880909,"4(1+2+3)",2,3,"","Armed Services Vocational Aptitude Battery (ASVAB)","General",0,2,100,"USA","2","SJT",1,1
+"32",37,109,"Ely",2009,"3",0,148,0.55,0.00330956632653061,"3",2,3,"","Wonderlic Personnel Test","General",0,3,43.24,"USA","1","Simulation/video game",1,1
+"33",38,110,"Pleban",2011,"7",1,42,0.04,0.0243122575609756,"4(1+3)",1,1,"broad","Wonderlic Personnel Test","General",1,2,100,"USA","2","",NA,NA
+"34",38,111,"Pleban",2011,"7",1,42,-0.05,0.0242684451219512,"4(1+3)",1,1,"broad","Wonderlic Personnel Test","General",1,2,100,"USA","2","",NA,NA
+"35",38,112,"Pleban",2011,"7",1,42,0.08,0.024079047804878,"4(1+3)",1,1,"broad","Wonderlic Personnel Test","General",1,2,100,"USA","2","",NA,NA
+"36",38,113,"Pleban",2011,"7",1,23,0.34,0.03555288,"4(1+3)",2,3,"","Wonderlic Personnel Test","General",1,2,100,"USA","2","Simulation/video game",1,1
+"37",39,114,"Campbell",2007,"3",0,161,0.517,0.00335540880950625,"3",2,3,"","Wonderlic Personnel Test","General",0,3,44.1,"USA","4","Other",1,1
+"38",39,115,"Campbell",2007,"3",0,161,0.555,0.00299268375390625,"3",2,3,"","Wonderlic Personnel Test","General",0,3,44.1,"USA","4","Other",1,1
+"39",40,116,"Young",2015,"4",0,173,0.23,0.00521510703488372,"3",2,3,"","Wonderlic Personnel Test","General",0,NA,NA,"USA","1","Other",1,1
+"40",40,117,"Young",2015,"4",0,173,0.18,0.00544331255813954,"3",2,3,"","Wonderlic Personnel Test","General",0,NA,NA,"USA","1","Other",1,1
+"41",41,118,"Holladay",2003,"1",1,82,0.12,0.0119926834567901,"3",2,3,"","Wonderlic Personnel Test","General",0,3,43.9,"USA","1","Simulation/video game",1,1
+"42",44,127,"Frank",2017,"1",1,33,0.385,0.0226725203320312,"3",2,3,"","Wonderlic Personnel Test","General",1,3,69.7,"Germany","1","Simulation/video game",1,1
