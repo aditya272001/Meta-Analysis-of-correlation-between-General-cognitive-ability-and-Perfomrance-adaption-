@@ -58,7 +58,7 @@ funnel(DATA1$yi, DATA1$vi, yaxis = "seinv", xlim = c(-3,2), ylim = c(0.0001, 8),
        xaxs = "i", yaxs = "i", las = 1, level = c(.10, 0.05, 0.01), shade = c("white", "gray55", "gray75"), 
        legend = T, back = "gray90", ylab = "Precision (1/se)", lty = 0)
 dev.off()
-#----------Meta-Regression-----------------#
+#----------Sub-group-analysis-----------------#
 FIT.reg <- rma(yi, vi, 
                mods = ~ cog_abil_measure, 
                data = DATA1, digits = 3)
@@ -94,3 +94,17 @@ tmp.fit <- cumul(FIT.meta, order = DATA1$pub_year)
 pdf("cumulative_plot.pdf", height = 12, width = 16, paper = "USr")
 forest(tmp.fit, atransf = exp, header = "Author(s) and Year")
 dev.off()
+
+#-------P-curve---------#
+library(metacor) 
+library(dmetar) 
+XP <- metacor( cor = META_DATA$yi, n = n, 
+            labels = META_DATA$author, data = META_DATA, 
+            fixed = F, random = T, method.tau = "REML", 
+            hakn = T, title = "META-FOR-P-CURVING")
+
+pdf("pcurve_meta.pdf", height = 12, width = 16, paper = "USr")
+p.curve <- pcurve(XP)
+dev.off()
+
+
